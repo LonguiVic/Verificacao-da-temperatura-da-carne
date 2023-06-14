@@ -1,0 +1,1 @@
+# Verificacao-da-temperatura-da-carne
