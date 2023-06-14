@@ -15,9 +15,16 @@ O código solicitará a temperatura da carne em graus Celsius e fornecerá uma m
 Aqui está uma tabela de referência para ajudá-lo a entender as faixas de temperatura e as mensagens correspondentes:
 
 Temperatura <= 47: "Calma aí! Cozinhe a carne por mais tempo"
+
 Temperatura entre 48 e 53: "Rare (Selada)"
+
 Temperatura entre 54 e 59: "Medium rare (Ao ponto para o mal)"
+
 Temperatura entre 60 e 64: "Medium (Ao ponto)"
+
 Temperatura entre 65 e 70: "Medium well (Ao ponto para o bem)"
+
 Temperatura = 71: "Well done (Bem passada)"
+
 Temperatura > 71: "Essa não!!! A carne queimou!"
+
